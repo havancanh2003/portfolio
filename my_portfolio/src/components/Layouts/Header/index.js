@@ -3,7 +3,7 @@ import "./Header.scss";
 const Header = () => {
   return (
     <header>
-      <span>cAnh</span>
+      <span style={{ fontWeight: "600" }}>cAnh</span>
       <nav className="nav">
         <ul>
           <li>

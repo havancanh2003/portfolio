@@ -1,9 +1,9 @@
 export const about_box = [
   {
     id: "1",
-    icon: "fa-regular fa-chess-pawn",
-    title: "Experience",
-    des: "8 + year",
+    icon: "fa-solid fa-graduation-cap",
+    title: "Education",
+    des: "4 + year",
   },
   {
     id: "2",
@@ -108,5 +108,26 @@ export const projects = [
     src: "https://i.pinimg.com/564x/c3/a9/74/c3a974070b12c558c3273a33c4a6a5d9.jpg",
     title: "Botole",
     des: "",
+  },
+];
+
+export const contact = [
+  {
+    id: "ct1",
+    icon: "fa-solid fa-envelopes-bulk",
+    title: "Email",
+    des: "user@gmail.com",
+  },
+  {
+    id: "ct2",
+    icon: "fa-brands fa-whatsapp",
+    title: "Whatsapp",
+    des: "999-888-777",
+  },
+  {
+    id: "ct3",
+    icon: "fa-brands fa-facebook-messenger",
+    title: "Messenger",
+    des: "user.fb123",
   },
 ];
