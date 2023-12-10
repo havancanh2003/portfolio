@@ -27,7 +27,7 @@ function Home() {
             ever since the 1500s
           </span>
           <button>
-            Hi <i className="fa-brands fa-hubspot"></i>
+            Say Hi <i className="fa-brands fa-hubspot"></i>
           </button>
         </div>
       </div>
