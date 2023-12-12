@@ -4,18 +4,60 @@ export const about_box = [
     icon: "fa-solid fa-graduation-cap",
     title: "Education",
     des: "4 + year",
+    detail: [
+      {
+        dt: "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      },
+      {
+        dt: "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      },
+      {
+        dt: "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      },
+      {
+        dt: "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      },
+    ],
   },
   {
     id: "2",
     icon: "fa-solid fa-gift",
     title: "Completed",
     des: "10 + projects",
+    detail: [
+      {
+        dt: "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      },
+      {
+        dt: "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      },
+      {
+        dt: "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      },
+      {
+        dt: "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      },
+    ],
   },
   {
     id: "3",
     icon: "fa-solid fa-headphones-simple",
     title: "Support",
     des: "Online 24/7",
+    detail: [
+      {
+        dt: "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      },
+      {
+        dt: "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      },
+      {
+        dt: "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      },
+      {
+        dt: "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      },
+    ],
   },
 ];
 export const fontend_skills = [
